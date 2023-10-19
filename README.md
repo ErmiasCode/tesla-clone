@@ -7,6 +7,7 @@ In this repository, you will find everything you need to download and run this p
 
 - React, JS, HTML, CSS, Material UI
 - Styled Component
+- Redux
 - Drawer Navigation
 - Page snap
 - Tesla UI
