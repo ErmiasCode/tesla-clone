@@ -1,6 +1,6 @@
 # My React - Tesla Clone Project
 
-Welcome to my React Vite - Tesla Clone Project!
+Welcome to my React Vite - Tesla UI Clone Project!
 In this repository, you will find everything you need to download and run this project locally.
 
 ### Tech Stack and Highlights
